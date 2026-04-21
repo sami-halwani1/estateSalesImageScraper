@@ -44,3 +44,16 @@ for index, img_url in enumerate(image_urls):
         img_file.write(img_data)
 
 print(f"✅ Downloaded {len(image_urls)} images into '{folder_name}' with filenames like '{filename}_1.jpg'")
+
+
+def get_images():
+
+    pass
+
+def generate_metadat():
+    
+    pass
+
+if __name__ == "__main__":
+
+    pass
