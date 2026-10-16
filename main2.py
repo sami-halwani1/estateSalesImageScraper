@@ -254,6 +254,11 @@ def generate_metadata(driver, url):
 # =========================
 # Main
 # =========================
+
+
+
+
+
 def main():
     url, filename, max_images, output_dir = setup_config()
     driver, wait = setup_browser()
